@@ -1,9 +1,7 @@
 import proxy.Account;
-import proxy.AccountList;
 import proxy.BankService;
 import proxy.BankWS;
 
-import java.util.LinkedList;
 import java.util.List;
 
 public class Client_main {
